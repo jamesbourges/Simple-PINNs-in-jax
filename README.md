@@ -2,7 +2,7 @@
 
 This repository contains two proof-of-concept implementations of Physics-Informed Neural Networks (PINNs) built with **JAX**, **Equinox**, and **Optax**. The notebooks explore progressively complex physical systems, demonstrating how neural networks can leverage partial physical knowledge to reconstruct trajectories and solve inverse problems from highly degraded, sparse data.
 
-## 🧠 Core Architecture & Design Patterns
+## Core Architecture & Design Patterns
 
 Both notebooks share a unified PINN design pattern:
 
